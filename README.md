@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Stefan 👋
 
-<!--
-**stefanpopovic01/stefanpopovic01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer focused on building web applications.
 
-Here are some ideas to get you started:
+- 🎓 Master’s degree in Information Technologies  
+- 📚 Currently studying Software Engineering (Bachelor)  
+- 💻 Working with React, Express, and MongoDB  
+- ⚙️ Currently learning C++ and improving backend skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,express,mongodb,c,cpp" />
+</p>
+
+## 🚀 About Me
+
+I enjoy building full stack applications, with a stronger focus on backend development and system logic.  
+Currently expanding my knowledge in C++ and low-level programming.
