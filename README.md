@@ -1,4 +1,4 @@
-# Hi, I'm Stefan
+# Hi, I'm Stefan!
 
 Full Stack Developer focused on building web applications.
 
