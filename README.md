@@ -1,4 +1,4 @@
-# Hi, I'm Stefan 👋
+# Hi, I'm Stefan
 
 Full Stack Developer focused on building web applications.
 
@@ -7,13 +7,13 @@ Full Stack Developer focused on building web applications.
 - 💻 Working with React, Express, and MongoDB  
 - ⚙️ Currently learning C++ and improving backend skills  
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,express,mongodb,c,cpp" />
 </p>
 
-## 🚀 About Me
+## About Me
 
 I enjoy building full stack applications, with a stronger focus on backend development and system logic.  
 Currently expanding my knowledge in C++ and low-level programming.
