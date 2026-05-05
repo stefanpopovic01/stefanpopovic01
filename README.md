@@ -9,7 +9,7 @@ Full Stack Developer focused on building web applications.
 ## Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,express,mongodb,c,cpp,python,django,linux,git" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,express,mongodb,c,cpp,python,django,linux,git,postgresql" />
 </p>
 
 ## About Me
