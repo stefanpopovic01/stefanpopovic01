@@ -2,10 +2,9 @@
 
 Full Stack Developer focused on building web applications.
 
-- 🎓 Master’s degree in Information Technologies  
-- 📚 Currently studying Software Engineering (Bachelor)  
-- 💻 Working with React, Express, and MongoDB  
-- ⚙️ Currently learning C++ and improving backend skills  
+- Master’s degree in Information Technologies  
+-  Currently studying Software Engineering (Bachelor) and improving my engineering skills. 
+-  Working with React, Express, MongoDB, Django, PostgreSQL
 
 ## Tech Stack
 
