@@ -4,12 +4,12 @@ Full Stack Developer focused on building web applications.
 
 - Master’s degree in Information Technologies  
 -  Currently studying Software Engineering (Bachelor) and improving my engineering skills. 
--  Working with React, Express, MongoDB, Django, PostgreSQL
+-  Working with React, Express, MongoDB, Django and PostgreSQL
 
 ## Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,express,mongodb,c,cpp,python,django" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,express,mongodb,c,cpp,python,django,linux,git" />
 </p>
 
 ## About Me
