@@ -15,4 +15,3 @@ Full Stack Developer focused on building web applications.
 ## About Me
 
 I enjoy building full stack applications, with a stronger focus on backend development and system logic.  
-Currently expanding my knowledge in C++ and low-level programming.
