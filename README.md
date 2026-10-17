@@ -1,13 +1,11 @@
+# Software Engineer | Web Development
 
-Full Stack Developer focused on building web applications.
+- 🎓 Bachelor's degree in Business Management
+- 🎓 Master's degree in Information Technologies
+- 🎓 Currently pursuing a Bachelor's degree in Software Engineering (third year)
 
-- Master’s degree in Information Technologies  
-- Currently third year of Software Engineering (Bachelor).
-
-## Tech Stack
+## 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,express,mongodb,c,cpp,python,django,linux,git,postgresql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,express,mongodb,c,cpp,python,django,linux,git,postgresql" alt="Tech Stack" />
 </p>
-
- 
