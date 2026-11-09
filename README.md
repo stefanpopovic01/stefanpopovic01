@@ -7,5 +7,5 @@
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,express,mongodb,c,cpp,python,django,linux,git,postgresql" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,express,mongodb,c,cpp,python,django,linux,git,postgresql,mysql" alt="Tech Stack" />
 </p>
